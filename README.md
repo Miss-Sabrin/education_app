@@ -1,4 +1,5 @@
 # education_app
+<img width="716" alt="image" src="https://github.com/Miss-Sabrin/education_app/assets/111917067/ca61ac71-a620-41e1-bd8e-47dd4a9a7db2">
 
 A new Flutter project.
 
